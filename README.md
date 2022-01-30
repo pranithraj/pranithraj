@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranith Raj Jajala
-- 👀 I’m interested in solving reaal-world problems
-- 🌱 I’m currently learning AWS and Spring framework in Java
+- 👀 I’m interested in solving real-world problems
+- 🌱 I’m currently learning Deep Learning and Python
 - 💞️ I’m looking to collaborate on Web, Middeware, and Backend development
 - 📫 Reach out to me at pranithraj77@gmail.com
 
