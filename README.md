@@ -1,7 +1,12 @@
-- Hi, I’m Pranith Raj Jajala
-- Reach out to me on [LinkedIn](http://linkedin.com/in/pranith-raj-j) or at pranithraj77@gmail.com
+# Hi, I'm Pranith Raj Jajala
 
-<!---
-pranithraj/pranithraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineer — Backend Systems · Microservices · Applied AI**
+
+I'm a software engineer focused on building reliable backend and enterprise systems.
+
+### 🎓 Education
+- Doctoral studies in Information Technology (in progress)
+
+### 📫 Get in Touch
+- Email: **pranithraj77@gmail.com**
+- LinkedIn: [linkedin.com/in/pranith-raj-j](https://www.linkedin.com/in/pranith-raj-j/)
